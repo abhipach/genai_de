@@ -33,7 +33,7 @@ if "chat_session" not in st.session_state:
 
 
 # Display the chatbot's title on the page
-st.title(" LEX financial Guru")
+st.title("GenAI for DataEngineering Task")
 
 # Display the chat history
 for message in st.session_state.chat_session.history:
